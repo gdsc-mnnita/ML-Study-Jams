@@ -1,1 +1,5 @@
-A community led event where students can join to learn the basics of Machine Learning, including key concepts and techniques, and how they can be used to solve real-world problems. Whether you're a beginner or an experienced programmer, this class is perfect for anyone interested in learning more about machine learning and its potential.
+# ML Study Jams 2022-23
+
+We are excited to announce the first ever ML Study Jams event at GDSC MNNIT! ML Study Jams is series of events conducted with the goal of bringing the ML community together to learn, share, and grow. Please find the resources for the event below.
+
+### [ML Study Jams 2022-23 Resources](https://gdsc-mnnita.github.io/ML-Study-Jams/2022-23/Day1)
