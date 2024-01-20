@@ -11,3 +11,9 @@ Expect engaging workshops and hands-on activities that will empower you to apply
 We understand the importance of accessible resources in your learning journey. Rest assured, we will provide comprehensive materials and tools to accompany each session, ensuring that you have the necessary support to enhance your understanding of machine learning concepts.
 
 Mark your calendars for ML Study Jams 2023-24 and join us on this exhilarating expedition into the world of machine learning. Let's create, innovate, and elevate together! Stay tuned for updates on schedule, speakers, and registration details as we embark on another year of collaborative learning and growth.
+
+
+
+| Session | Ppt | Notebooks |
+|:-|:-:|:-:|
+|Day 1: Intro to Machine Learning and Python | [ppt](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/assets/Day-1.pptx) | [Day1.ipynb](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/Day1.ipynb) |
