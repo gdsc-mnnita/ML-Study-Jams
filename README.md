@@ -5,3 +5,4 @@ A community led event where students can join to learn the basics of Machine Lea
 ### Resource Archives
 
 - [2022-23](https://gdsc-mnnita.github.io/ML-Study-Jams/2022-23/)
+- [2023-24](https://gdsc-mnnita.github.io/ML-Study-Jams/2023-24/)
