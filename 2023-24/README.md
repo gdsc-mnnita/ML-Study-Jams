@@ -16,5 +16,5 @@ Mark your calendars for ML Study Jams 2023-24 and join us on this exhilarating e
 
 | Session | Ppt | Notebooks |
 |:-|:-:|:-:|
-|Day 1: Intro to Machine Learning and Python | [ppt](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/assets/Day-1.pptx) | [Day1.ipynb](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/Day1.ipynb) |
+|Day 1: Intro to Machine Learning and Python | [ppt](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/assets/Day-1.pptx) | [Day1.ipynb](https://github.com/gdsc-mnnita/ML-Study-Jams/blob/main/2023-24/Day1/Day1.ipynb) |
 |Day 2: Intro to regression | | [Day2.ipynb](https://github.com/gdsc-mnnita/ML-Study-Jams/tree/main/2023-24/Day2) | 
